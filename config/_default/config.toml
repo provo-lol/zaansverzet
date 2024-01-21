@@ -1,0 +1,14 @@
+# -- Site Configuration --
+
+defaultContentLanguage = "nl"
+baseURL = ''
+title = 'Zaans Verzet'
+theme = "congo"
+languageCode = 'nl'
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
