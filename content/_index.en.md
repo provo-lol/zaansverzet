@@ -1,6 +1,6 @@
 ---
 title: "Zaan Resistance"
-description: "This is a demo of the Congo theme for Hugo."
+description: "Solidarity network in the Zaan region"
 ---
 
 ![](/img/zaanse-schans.jpg)

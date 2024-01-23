@@ -1,6 +1,6 @@
 ---
 title: "مقاومة زانستاد"
-description: "This is a demo of the Congo theme for Hugo."
+description: "شبكة التضامن في زانستاد"
 ---
 
 ![](/img/zaanse-schans.jpg)

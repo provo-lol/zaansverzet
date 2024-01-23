@@ -1,10 +1,10 @@
 ---
 title: "Zaans Verzet"
-description: "This is a demo of the Congo theme for Hugo."
+description: "Solidariteitsnetwerk in de Zaanstreek"
 ---
 
 ![](/img/zaanse-schans.jpg)
 
-Zaans Verzet is een solidariteitsnetwerk in de Zaanstreek. Van en door Zaankanters die samen opstaan voor een beter wereld.
+Zaans Verzet is een solidariteitsnetwerk in de Zaanstreek. Van en door Zaankanters die samen opstaan voor een betere wereld.
 
 [Sluit je aan!](/contact)
