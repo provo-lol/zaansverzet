@@ -10,9 +10,9 @@ description: ""
 
 Zaankanters voor Palestina werkt samen aan acties in de Zaanstreek voor Palestina.
 
-Sinds 7 oktober 2023 heeft de Israëlische bezetter in Palestina al meer dan 26.275 mensen op brute wijze vermoord (laatst geüpdate: 27 januari 2024). 
+Sinds 7 oktober 2023 heeft de Israëlische bezetter in Palestina al meer dan 28.663 mensen op brute wijze vermoord (laatst geüpdate: 15 februari 2024). 
 
-**Dat is equivalent aan het vermoorden van 16,44% van alle inwoners van Zaanstad.**
+**Dat is equivalent aan het vermoorden van 17,94% van alle inwoners van Zaanstad.**
 
 <!-- 159.806 inwoners Zaanstad op 31 januari 2023 -->
 
