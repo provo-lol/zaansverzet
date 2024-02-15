@@ -34,7 +34,7 @@ Ben je lastiggevallen op school, op je werk, of op straat omdat je opkomt voor P
 
 ## Agenda
 
-### 25 jan: Zitprotest voor een staakt-het-vuren
+<!-- ### 25 jan: Zitprotest voor een staakt-het-vuren
 Donderdag 25 januari 2024  
 18.00 uur  
 Station Zaandam, Zaandam  
@@ -47,9 +47,57 @@ Station Zaandam, Zaandam
 ### 8 feb: Zitprotest voor een staakt-het-vuren
 Donderdag 8 februari 2024  
 18.00 uur  
+Station Zaandam, Zaandam  -->
+
+### 15 feb: Protest op station
+
+Geluidsprotest voor een staakt-het-vuren, nu!  
+Donderdag 15 februari 2024  
+18.00 uur  
 Station Zaandam, Zaandam 
 
-### 15 feb: Zitprotest voor een staakt-het-vuren
-Donderdag 15 februari 2024  
+### 22 feb: Protest op station
+
+Geluidsprotest voor een staakt-het-vuren, nu!  
+Donderdag 22 februari 2024  
+18.00 uur  
+Station Zaandam, Zaandam 
+
+### 26 feb: Herdenking februaristaking
+
+![Flyer voor de herdenking van de februaristaking 2024, met daarop de tekst: "Herdenk de februaristaking. Verzet! Tegen genocide. Toen in Nederland, nu in Palestina. 26 februari, 9.30 's ochtends, Wilhelminabrug Zaandam"](/img/februaristaking.jpg)
+
+Maandag 26 februari 2024  
+9.30 uur 's ochtends  
+Wilhelminabrug, Zaandam 
+
+In 1941 staakten tienduizenden arbeiders in Zaandam. Dit was hun verzet tegen de vervolging van Joodse medeburgers. Die werden door de bezetter opgejaagd en vermoord.
+
+Israël pleegt op dit moment volkerenmoord. Palestijnse burgers worden door de Israëlische bezetter opgejaagd en vermoord.
+
+De februaristakers kwamen in opstand. Dat was juist. 
+
+Nu is het onze beurt om het juiste te doen. Eis de bevrijding van Palestina!
+
+Herdenk samen de februaristaking. Neem een bloem mee.
+
+### 29 feb: Protest op station
+
+Geluidsprotest voor een staakt-het-vuren, nu!  
+Donderdag 29 februari 2024  
+18.00 uur  
+Station Zaandam, Zaandam 
+
+### 7 maart: Protest op station
+
+Geluidsprotest voor een staakt-het-vuren, nu!  
+Donderdag 7 maart 2024  
+18.00 uur  
+Station Zaandam, Zaandam 
+
+### 14 maart: Protest op station
+
+Geluidsprotest voor een staakt-het-vuren, nu!  
+Donderdag 14 maart 2024  
 18.00 uur  
 Station Zaandam, Zaandam 
