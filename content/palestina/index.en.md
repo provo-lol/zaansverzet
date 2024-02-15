@@ -33,7 +33,7 @@ Have you been harassed at school, at your workplace, or on the street because yo
 
 ## Agenda
 
-### 25 Jan: Sit-in for a ceasefire
+<!-- ### 25 Jan: Sit-in for a ceasefire
 Thursday 25 January 2024, 6pm  
 Zaandam station, Zaandam
 
@@ -43,8 +43,42 @@ Zaandam station, Zaandam
 
 ### 8 Feb: Sit-in for a ceasefire
 Thursday 8 February 2024, 6pm  
-Zaandam station, Zaandam
+Zaandam station, Zaandam -->
 
 ### 15 Feb: Sit-in for a ceasefire
 Thursday 15 February 2024, 6pm  
+Zaandam station, Zaandam
+
+### 22 Feb: Sit-in for a ceasefire
+Thursday 22 February 2024, 6pm  
+Zaandam station, Zaandam
+
+### 26 feb: Remembering the February strike
+
+![Flyer for the 2024 commemoration of the February strike, with the text (in Dutch): "Remember the February strike. Resistance! Against genocide. Then in the Netherlands, now in Palestine. February 26, 9.30 am, Wilhelminabrug Zaandam"](/img/februaristaking.jpg)
+
+Monday 26 February 2024, 9.30am   
+Wilhelminabrug, Zaandam 
+
+In 1941, tens of thousands of workers in Zaandam went on strike. They resisted the persecution of Jewish fellow citizens. These were persecuted and murdered by the occupying forces.
+
+Israel is currently perpetrating genocide. Palestinian citizens are persecuted and murdered by the 
+Israeli occupier.
+
+The February strikers revolted. That was the right thing to do.
+
+Now it's our turn to do the right thing. Demand the liberation of Palestine!
+
+Let's together commemorate the February strike. Bring a flower.
+
+### 29 Feb: Sit-in for a ceasefire
+Thursday 29 February 2024, 6pm  
+Zaandam station, Zaandam
+
+### 7 Mar: Sit-in for a ceasefire
+Thursday 7 March 2024, 6pm  
+Zaandam station, Zaandam
+
+### 14 Mar: Sit-in for a ceasefire
+Thursday 14 March 2024, 6pm  
 Zaandam station, Zaandam
