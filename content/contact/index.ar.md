@@ -9,6 +9,8 @@ description: ""
 
 يمكنك المشاركة بالطريقة التي تناسبك. القيام بالأعمال معًا، أو العمل خلف الكواليس، أو النشاط في منطقتك المحلية، أو عبر الإنترنت. هناك شيء يجب القيام به للجميع!
 
-جهة الاتصال: zaans<!---->verzet<!-- -->@<!---->prot<!-- -->on<!-- -->.me.
+- بريد إلكتروني: **zaans<!---->verzet<!-- -->@<!---->prot<!-- -->on<!-- -->.me**
+- Mastodon: [@zaansverzet@todon.nl](https://todon.nl/@zaansverzet)
+- Instagram: [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
 
 إذا اتصلت بنا، فسنرسل لك بعض المعلومات حتى تتمكن من معرفة كيف يمكنك المساهمة.
