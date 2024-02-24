@@ -1,16 +1,1 @@
-{{ if hugo.IsProduction }}
-  {{ with .Site.Params.fathomAnalytics.site }}
-    {{ if isset $.Site.Params.fathomanalytics "domain" }}
-      <script defer src="https://{{ $.Site.Params.fathomanalytics.domain }}/script.js" data-site="{{ . }}"></script>
-    {{ else }}
-      <script defer src="https://cdn.usefathom.com/script.js" data-site="{{ . }}"></script>
-    {{ end }}
-  {{ end }}
-  {{ with site.Params.plausibleAnalytics.domain }}
-    <script defer
-      data-domain="{{ . }}"
-      data-api="{{ default "https://plausible.io/api/event" site.Params.plausibleAnalytics.event }}"
-      src="{{ default "https://plausible.io/js/script.js" site.Params.plausibleAnalytics.script }}"></script>
-  {{ end }}
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
+<script defer src="https://cdn.counter.dev/script.js" data-id="3c07d091-a626-4239-8c2a-1fffaed17de8" data-utcoffset="2"></script>
