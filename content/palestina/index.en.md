@@ -43,7 +43,7 @@ Zaandam station, Zaandam
 
 ### 8 Feb: Sit-in for a ceasefire
 Thursday 8 February 2024, 6pm  
-Zaandam station, Zaandam -->
+Zaandam station, Zaandam 
 
 ### 15 Feb: Sit-in for a ceasefire
 Thursday 15 February 2024, 6pm  
@@ -77,8 +77,20 @@ Zaandam station, Zaandam
 
 ### 7 Mar: Sit-in for a ceasefire
 Thursday 7 March 2024, 6pm  
+Zaandam station, Zaandam -->
+
+### 14 March: Sit-in for a ceasefire
+Thursday 14 March 2024, 5-6pm  
 Zaandam station, Zaandam
 
-### 14 Mar: Sit-in for a ceasefire
-Thursday 14 March 2024, 6pm  
+### 21 March: Sit-in for a ceasefire
+Thursday 21 March 2024, 5-6pm  
+Zaandam station, Zaandam
+
+### 28 March: Sit-in for a ceasefire
+Thursday 28 March 2024, 5-6pm  
+Zaandam station, Zaandam
+
+### 4 April: Sit-in for a ceasefire
+Thursday 4 April 2024, 5-6pm  
 Zaandam station, Zaandam
