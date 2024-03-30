@@ -36,9 +36,14 @@
   weight = 20
 
 [[main]]
+ name = "News and press"
+  pageRef = "nieuws-pers"
+  weight = 30
+
+[[main]]
  name = "Contact"
   pageRef = "contact"
-  weight = 30
+  weight = 35
 
 [[main]]
   name = "Mastodon"
@@ -55,6 +60,15 @@
   weight = 50
   [main.params]
     icon = "instagram"
+    showName = false
+    target = "_blank"
+  
+[[main]]
+  name = "TikTok"
+  url = "https://www.tiktok.com/@zaan4palestine"
+  weight = 60
+  [main.params]
+    icon = "tiktok"
     showName = false
     target = "_blank"
 
