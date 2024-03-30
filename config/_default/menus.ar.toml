@@ -59,6 +59,15 @@
     target = "_blank"
 
 [[main]]
+  name = "TikTok"
+  url = "https://www.tiktok.com/@zaan4palestine"
+  weight = 60
+  [main.params]
+    icon = "tiktok"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
