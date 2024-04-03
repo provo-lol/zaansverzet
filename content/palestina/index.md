@@ -93,7 +93,7 @@ Station Zaandam, Zaandam
 Geluidsprotest voor een staakt-het-vuren, nu!  
 Donderdag 7 maart 2024  
 18.00 uur  
-Station Zaandam, Zaandam  -->
+Station Zaandam, Zaandam  
 
 ### 14 maart: Protest op station
 
@@ -117,7 +117,7 @@ Staakt-het-vuren, nu!
 
 Donderdag 28 maart 2024  
 17.00-18.00 uur  
-Station Zaandam, Zaandam 
+Station Zaandam, Zaandam -->
 
 ### 4 april: Protest op station
 
@@ -125,4 +125,36 @@ Staakt-het-vuren, nu!
 
 Donderdag 4 april 2024  
 17.00-18.00 uur  
+Station Zaandam, Zaandam 
+
+### 11 april: Protest op station
+
+Staakt-het-vuren, nu!  
+
+Donderdag 11 april 2024  
+17.30-18.30 uur  
+Station Zaandam, Zaandam 
+
+### 18 april: Protest op station
+
+Staakt-het-vuren, nu!  
+
+Donderdag 18 april 2024  
+17.30-18.30 uur  
+Station Zaandam, Zaandam 
+
+### 25 april: Protest op station
+
+Staakt-het-vuren, nu!  
+
+Donderdag 25 april 2024  
+17.30-18.30 uur  
+Station Zaandam, Zaandam 
+
+### 2 mei: Protest op station
+
+Staakt-het-vuren, nu!  
+
+Donderdag 2 mei 2024  
+17.30-18.30 uur  
 Station Zaandam, Zaandam 
