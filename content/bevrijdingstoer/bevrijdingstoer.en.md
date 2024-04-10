@@ -1,10 +1,12 @@
 ---
-title: "Liberation tour 2024"
+title: "Liberation tour"
 description: "Stand up for the liberation of Palestine"
 date: 2024-04-03
 tags: ["Palestine", "Liberation Day", "freedom"]
 url: /en/palestina/bevrijdingstoer
 ---
+
+![Photo of the facade of a house, with a bicycle parked in front of it. Behind the window is a poster of a red fist against a black background, with the text: 'No one is free until Palestine is free'](/img/niemand-is-vrij_raamposter.jpg)
 
 5 May is Liberation Day. In the Netherlands, that is when we celebrate freedom.
 

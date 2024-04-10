@@ -1,10 +1,12 @@
 ---
-title: "Bevrijdingstoer 2024"
+title: "Bevrijdingstoer"
 description: "Kom op voor de bevrijding van Palestina"
 date: 2024-04-03
 tags: ["Palestina", "Bevrijdingsdag", "vrijheid"]
 url: /palestina/bevrijdingstoer
 ---
+
+![Foto van de voorgevel van een woning, waar een fiets voor geparkeerd staat. Achter de raam zit een poster van een rode vuist tegen een zwarte achtergrond, met daarop de tekst: 'Niemand is vrij, totdat Palestina vrij is'](/img/niemand-is-vrij_raamposter.jpg)
 
 Op 5 mei is het Bevrijdingsdag. Dan vieren we in Nederland de vrijheid.
 
