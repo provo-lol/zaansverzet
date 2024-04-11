@@ -8,6 +8,8 @@ url: /palestina/bevrijdingstoer
 
 ![Foto van de voorgevel van een woning, waar een fiets voor geparkeerd staat. Achter de raam zit een poster van een rode vuist tegen een zwarte achtergrond, met daarop de tekst: 'Niemand is vrij, totdat Palestina vrij is'](/img/niemand-is-vrij_raamposter.jpg)
 
+## Over
+
 Op 5 mei is het Bevrijdingsdag. Dan vieren we in Nederland de vrijheid.
 
 Maar wat valt er te vieren?
@@ -21,3 +23,9 @@ Kom daarom op voor de bevrijding van Palestina!
 Hang op Bevrijdingsdag de Palestijnse vlag uit, of hang de bevrijdingsposter in je raam.
 
 Zolang Palestina bezet is, valt er geen vrijheid te vieren.
+
+## Bevrijdingstoeragenda
+
+_Nieuwe locaties en tijden worden doorlopend toegevoegd._
+
+{{< bevrijdingstoeragenda >}}

@@ -8,6 +8,8 @@ url: /en/palestina/bevrijdingstoer
 
 ![Photo of the facade of a house, with a bicycle parked in front of it. Behind the window is a poster of a red fist against a black background, with the text: 'No one is free until Palestine is free'](/img/niemand-is-vrij_raamposter.jpg)
 
+## About
+
 5 May is Liberation Day. In the Netherlands, that is when we celebrate freedom.
 
 But what is there to celebrate?
@@ -21,3 +23,9 @@ Stand up for the liberation of Palestine!
 On Liberation Day, fly the Palestinian flag or hang the liberation poster in your window.
 
 There is no freedom to celebrate, as long as Palestine is occupied.
+
+## Liberation tour agenda
+
+_New locations and times will be added continuously._
+
+{{< bevrijdingstoeragenda-en >}}
