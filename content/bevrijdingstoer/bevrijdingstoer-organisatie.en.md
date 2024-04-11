@@ -28,7 +28,7 @@ No one is free until Palestine is free.
 
 How can you take part in the Liberation tour?
 
-1. **Order** the free liberation posters and flyers (shipping costs only, the link to order will be available here from 15 April onwards).
+1. **Order** the free liberation [posters](https://derodelap.nl/product/palestinavrij-poster/) and [flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (shipping costs only).
 2. **Choose** one or more dates between now and 5 May on which you would like to distribute your liberation posters and flyers locally.
 3. **Register** your action(s) as part of the Liberation tour agenda, using the following [registration form](#register-your-action). (optional)
 

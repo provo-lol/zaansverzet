@@ -28,7 +28,7 @@ Niemand is vrij, totdat Palestina vrij is.
 
 Hoe doe je mee met de Bevrijdingstoer?
 
-1. **Bestel** de gratis bevrijdingsposters en -flyers (alleen verzendkosten, de link om te bestellen is vanaf 15 april hier beschikbaar).
+1. **Bestel** de gratis [bevrijdingsposters](https://derodelap.nl/product/palestinavrij-poster/) en [-flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (alleen verzendkosten).
 2. **Kies** één of meerdere data tussen nu en 5 mei waarop je je bevrijdingsposters en -flyers lokaal wilt uitdelen.
 3. **Meld** je actie(s) aan bij de Bevrijdingstoeragenda met het volgende [aanmeldingsformulier](#meld-je-actie-aan). (optioneel) 
 
