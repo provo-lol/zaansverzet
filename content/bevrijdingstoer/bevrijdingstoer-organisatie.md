@@ -1,5 +1,5 @@
 ---
-title: "Bevrijdingsdag: Niemand is vrij totdat Palestina vrij is (organisatie voor lokale Palestina-groepen)"
+title: "Bevrijdingsdag: Niemand is vrij totdat Palestina vrij is (organisatie)"
 description: "Kom op voor de bevrijding van Palestina"
 date: 2024-04-03
 tags: ["Palestina", "Bevrijdingsdag", "vrijheid"]

@@ -1,12 +1,12 @@
 ---
-title: "Liberation tour 2024"
+title: "Liberation tour: No on is free, until Palestine is free (organisation)"
 description: "Stand up for the liberation of Palestine"
 date: 2024-04-03
 tags: ["Palestine", "Liberation Day", "freedom"]
 url: /en/palestina/bevrijdingstoer-organisatie
 ---
 
-![Photo of the facade of a house, with a bicycle parked in front of it. Behind the window is a poster of a red fist against a black background, with the text: 'No one is free until Palestine is free'](/img/niemand-is-vrij_raamposter.jpg)
+![Photo of the facade of a house, with a bicycle parked in front of it. Behind the window is a poster of a red fist against a black background, with the text (in Dutch): 'No one is free until Palestine is free'](/img/niemand-is-vrij_raamposter.jpg)
 
 ## About
 
@@ -20,17 +20,17 @@ This has got to stop.
 
 Stand up for the liberation of Palestine. Take part in the Liberation Tour 2024!
 
-In the run-up to 5 May, distribute liberation posters and flyers in your own town, so that people can hang these up in solidarity with the Palestinian liberation.
+In the run-up to 5 May, distribute liberation posters and -flyers in your own town, so that people can hang these up in solidarity with the Palestinian liberation. Or do a postering round yourself.
 
 No one is free until Palestine is free.
 
 ## Take part
 
-How can you take part in the Liberation tour?
+How can you take part in the liberation tour?
 
-1. **Order** the free liberation [posters](https://derodelap.nl/product/palestinavrij-poster/) and [flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (shipping costs only).
-2. **Choose** one or more dates between now and 5 May on which you would like to distribute your liberation posters and flyers locally.
-3. **Register** your action(s) as part of the Liberation tour agenda, using the following [registration form](#register-your-action). (optional)
+1. **Order** the free liberation [posters](https://derodelap.nl/product/palestinavrij-poster/) and [flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (shipping costs only, minimum order of 50 items). Or [download the image](#download-the-image) to print it yourself.
+2. **Choose** one or more dates between now and 5 May on which you're going to distribute your liberation posters and flyers locally.
+3. **Register** your action(s) as part of the liberation tour agenda, using the following [registration form](#register-your-action). (_optional_)
 
 You're all set! 🎉
 
@@ -40,6 +40,12 @@ You're all set! 🎉
 
 ## Liberation tour agenda
 
-_New locations and times will be added continuously._
+Liberation posters and -flyers will be handed out at the following locations and times, for people to hang in their windows or in public places.
+
+Is your action not yet listed? [Register it here!](#register-your-action)
 
 {{< bevrijdingstoeragenda-en >}}
+
+## Download the image
+
+{{< bevrijdingsposter-afbeelding-en >}}

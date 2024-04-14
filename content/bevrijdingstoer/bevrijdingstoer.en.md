@@ -1,5 +1,5 @@
 ---
-title: "Liberation tour"
+title: "Liberation tour: No on is free, until Palestine is free"
 description: "Stand up for the liberation of Palestine"
 date: 2024-04-03
 tags: ["Palestine", "Liberation Day", "freedom"]
@@ -26,6 +26,10 @@ There is no freedom to celebrate, as long as Palestine is occupied.
 
 ## Liberation tour agenda
 
-_New locations and times will be added continuously._
+At the following locations and times you can pick up free liberation posters and flyers to hang in your window, do a postering round in your area, or distribute further.
 
 {{< bevrijdingstoeragenda-en >}}
+
+## Download the image
+
+{{< bevrijdingsposter-afbeelding-en >}}
