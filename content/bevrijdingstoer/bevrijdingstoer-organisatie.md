@@ -1,5 +1,5 @@
 ---
-title: "Bevrijdingstoer 2024"
+title: "Bevrijdingsdag: Niemand is vrij totdat Palestina vrij is (organisatie voor lokale Palestina-groepen)"
 description: "Kom op voor de bevrijding van Palestina"
 date: 2024-04-03
 tags: ["Palestina", "Bevrijdingsdag", "vrijheid"]
@@ -20,7 +20,7 @@ Dat moet stoppen.
 
 Kom daarom op voor de bevrijding van Palestina. Doe mee aan de Bevrijdingstoer 2024! 
 
-Deel in de aanloop naar 5 mei in je eigen stad of dorp bevrijdingsposters- en flyers uit, die mensen op kunnen hangen in solidariteit met de Palestijnse bevrijding. 
+Verspreid in de aanloop naar 5 mei in je eigen stad of dorp bevrijdingsposters en -flyers. Deel ze uit, zodat mensen ze op Bevrijdingsdag op kunnen hangen in solidariteit met de Palestijnse bevrijding, of doe zelf een plakronde. 
 
 Niemand is vrij, totdat Palestina vrij is.
 
@@ -28,9 +28,9 @@ Niemand is vrij, totdat Palestina vrij is.
 
 Hoe doe je mee met de Bevrijdingstoer?
 
-1. **Bestel** de gratis [bevrijdingsposters](https://derodelap.nl/product/palestinavrij-poster/) en [-flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (alleen verzendkosten).
-2. **Kies** één of meerdere data tussen nu en 5 mei waarop je je bevrijdingsposters en -flyers lokaal wilt uitdelen.
-3. **Meld** je actie(s) aan bij de Bevrijdingstoeragenda met het volgende [aanmeldingsformulier](#meld-je-actie-aan). (optioneel) 
+1. **Bestel** de gratis [bevrijdingsposters](https://derodelap.nl/product/palestinavrij-poster/) en [-flyers](https://derodelap.nl/product/vrij-palestina-flyers/) (alleen verzendkosten, minimaal 50 stuks). Of [download de afbeelding](#download-de-afbeelding) om zelf te printen.
+2. **Kies** één of meerdere data tussen nu en 5 mei waarop je je bevrijdingsposters en -flyers lokaal wilt uitdelen of plakken.
+3. **Meld** je actie(s) aan bij de Bevrijdingstoeragenda, met het [aanmeldingsformulier](#meld-je-actie-aan). (_optioneel_) 
 
 Je bent er klaar voor! 🎉
 
@@ -40,6 +40,12 @@ Je bent er klaar voor! 🎉
 
 ## Bevrijdingstoeragenda
 
-_Nieuwe locaties en tijden worden doorlopend toegevoegd._
+Op de volgende locaties en tijden worden er gratis bevrijdingsposters en -flyers uitgedeeld die mensen voor hun raam kunnen hangen, of in hun omgeving kunnen plakken.
+
+Staat jouw actie er nog niet bij? [Meld deze dan aan!](#meld-je-actie-aan)
 
 {{< bevrijdingstoeragenda >}}
+
+## Download de afbeelding
+
+{{< bevrijdingsposter-afbeelding >}}
