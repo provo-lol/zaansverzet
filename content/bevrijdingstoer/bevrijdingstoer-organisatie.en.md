@@ -1,5 +1,5 @@
 ---
-title: "Liberation tour: No on is free, until Palestine is free (organisation)"
+title: "Liberation tour: No one is free, until Palestine is free (organisation)"
 description: "Stand up for the liberation of Palestine"
 date: 2024-04-03
 tags: ["Palestine", "Liberation Day", "freedom"]
@@ -7,6 +7,8 @@ url: /en/palestina/bevrijdingstoer-organisatie
 ---
 
 ![Photo of the facade of a house, with a bicycle parked in front of it. Behind the window is a poster of a red fist against a black background, with the text (in Dutch): 'No one is free until Palestine is free'](/img/niemand-is-vrij_raamposter.jpg)
+
+_This page contains information for local Palestine groups to organise actions in the run-up to Liberation Day. Would you just loke to take part in existing actions? See: [Liberation tour](/content/bevrijdingstoer/bevrijdingstoer.en.md)._
 
 ## About
 
