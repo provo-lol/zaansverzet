@@ -32,6 +32,10 @@ Ideeën voor acties zijn welkom. Als je samen iets wilt doen op school, op je we
 
 Ben je lastiggevallen op school, op je werk, of op straat omdat je opkomt voor Palestina? Neem dan ook contact op. Dan kijken we samen of we hier iets aan kunnen doen.
 
+## Bevrijdingstoer 
+
+In de aanloop naar Bevrijdingsdag is er een bevrijdingstoer met flyer- en posteracties, onder het motto: Niemand is vrij, totdat Palestina vrij is. [Meer informatie over de bevrijdingstoer.](/content/bevrijdingstoer/bevrijdingstoer.md)
+
 ## Agenda
 
 <!-- ### 25 jan: Zitprotest voor een staakt-het-vuren
@@ -117,7 +121,7 @@ Staakt-het-vuren, nu!
 
 Donderdag 28 maart 2024  
 17.00-18.00 uur  
-Station Zaandam, Zaandam -->
+Station Zaandam, Zaandam 
 
 ### 4 april: Protest op station
 
@@ -133,28 +137,57 @@ Staakt-het-vuren, nu!
 
 Donderdag 11 april 2024  
 17.30-18.30 uur  
-Station Zaandam, Zaandam 
+Station Zaandam, Zaandam -->
 
 ### 18 april: Protest op station
 
 Staakt-het-vuren, nu!  
-
-Donderdag 18 april 2024  
-17.30-18.30 uur  
+Donderdag 18 april 2024, 17.30-18.30 uur  
 Station Zaandam, Zaandam 
+
+### 19 april: Bevrijdingstoer
+
+Vrijdag 19 april, 13.30-14.30 uur  
+Bij Sultan Ahmet Moskee, Poelenburg, Zaandam
+
+### 20 april: Bevrijdingstoer
+
+Zaterdag 20 april, 11.00-12.00 uur  
+Bij AH Julianaplein, bij Zaans Medisch Centrum, Zaandam
+
+Zaterdag 20 april, 12.30-13.30 uur  
+Bij winkel Köşem, Vijfhoek, Zaandam
+    
+Zaterdag 20 april, 14.00-15.00 uur   
+Gedempte gracht, Centrum, Zaandam
 
 ### 25 april: Protest op station
 
 Staakt-het-vuren, nu!  
-
-Donderdag 25 april 2024  
-17.30-18.30 uur  
+Donderdag 25 april 2024, 17.30-18.30 uur    
 Station Zaandam, Zaandam 
+
+### 27 april: Bevrijdingstoer
+
+Zaterdag 27 april, 11.00-12.00 uur  
+Winkelcentrum Westerwatering, Zaandam
+
+Zaterdag 27 april, 12.30-13.30 uur  
+Dam, Zaandam
 
 ### 2 mei: Protest op station
 
 Staakt-het-vuren, nu!  
-
-Donderdag 2 mei 2024  
-17.30-18.30 uur  
+Donderdag 2 mei 2024, 17.30-18.30 uur  
 Station Zaandam, Zaandam 
+
+### 4 mei: Bevrijdingstoer
+
+Zaterdag 4 mei, 11.00-12.00 uur  
+AH Vrieschgroenstraat, kleurenbuurt, Zaandam
+
+Zaterdag 4 mei, 12.30-13.30 uur  
+Winkelcentrum Gibraltar, Zaandam
+
+Zaterdag 4 mei, 14.00-15.00 uur  
+Gedempte gracht, Centrum, Zaandam

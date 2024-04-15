@@ -31,6 +31,10 @@ Ideas for actions are welcome. If you want to do something together at your scho
 
 Have you been harassed at school, at your workplace, or on the street because you stand up for Palestine? Please also contact us. Then we will see whether we can do something about this together.
 
+## Liberation tour 
+
+In the run-up to Liberation Day, there'll be a liberation tour with flyer- and poster actions, with the slogan: No one is free, until Palestine is free. [More information about the liberation tour.](/content/bevrijdingstoer/bevrijdingstoer.en.md)
+
 ## Agenda
 
 <!-- ### 25 Jan: Sit-in for a ceasefire
@@ -89,7 +93,7 @@ Zaandam station, Zaandam
 
 ### 28 March: Sit-in for a ceasefire
 Thursday 28 March 2024, 5-6pm  
-Zaandam station, Zaandam -->
+Zaandam station, Zaandam 
 
 ### 4 April: Sit-in for a ceasefire
 Thursday 4 April 2024, 5.30-6.30pm  
@@ -97,16 +101,47 @@ Zaandam station, Zaandam
 
 ### 11 April: Sit-in for a ceasefire
 Thursday 11 April 2024, 5.30-6.30pm  
-Zaandam station, Zaandam
+Zaandam station, Zaandam -->
 
 ### 18 April: Sit-in for a ceasefire
-Thursday 18 April 2024, 5.30-6.30pm  
+Thursday 18 April 2024, 5:30-6:30 pm  
 Zaandam station, Zaandam
+
+### 19 April: Liberation Day tour
+Friday 19 April 2024, 1:30-2:30 pm  
+Near Sultan Ahmet Mosque, Poelenburg, Zaandam
+
+### 20 April: Liberation Day tour
+Saturday 20 April 2024, 11:00 am-12:00 noon   
+Near AH Julianaplein, near Zaans Medisch Centrum, Zaandam
+
+Saturday 20 April 2024, 12:30-1:30 pm  
+Near grocery store Köşem, Vijfhoek, Zaandam
+
+Saturday 20 April 2024, 2:00-3:00 pm  
+Gedempte gracht, City centre, Zaandam
 
 ### 25 April: Sit-in for a ceasefire
-Thursday 25 April 2024, 5.30-6.30pm  
+Thursday 25 April 2024, 5:30-6:30pm  
 Zaandam station, Zaandam
 
+### 27 April: Liberation Day tour
+Saturday 27 April, 11:00 am-12:00 noon  
+Shopping area Westerwatering, Zaandam
+
+Saturday 27 April, 12:30-1:30 pm  
+Dam, Zaandam
+
 ### 2 May: Sit-in for a ceasefire
-Thursday 2 May 2024, 5.30-6.30pm  
+Thursday 2 May 2024, 5:30-6:30pm  
 Zaandam station, Zaandam
+
+### 4 May: Liberation Day tour
+Saturday 4 May, 11:00 am-12:00 noon  
+Near AH Vrieschgroenstraat, Zaandam
+
+Saturday 4 May, 12:30-1:30 pm  
+Shopping area Gibraltar, Zaandam
+
+Saturday 4 May, 2:00-3:00 pm  
+Gedempte gracht, City centre, Zaandam
