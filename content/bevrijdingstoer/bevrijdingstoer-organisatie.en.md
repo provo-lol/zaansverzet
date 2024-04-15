@@ -36,6 +36,8 @@ How can you take part in the liberation tour?
 
 You're all set! 🎉
 
+Also join the [Telegram group](https://t.me/bevrijdingstoer).
+
 ### Register your action
 
 {{< bevrijdingstoer-form-en >}}

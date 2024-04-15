@@ -38,7 +38,7 @@ Zo doe je mee met de bevrijdingstoer:
 
 Je bent er klaar voor! 🎉
 
-Kom ook in het [telegramkanaal](https://t.me/bevrijdingstoer).
+Kom ook in de [Telegramgroep](https://t.me/bevrijdingstoer).
 
 ### Meld je actie aan
 
