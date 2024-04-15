@@ -39,6 +39,15 @@ Op de volgende locaties en tijden kun je gratis bevrijdingsposters en -flyers op
 
 {{< bevrijdingstoeragenda >}}
 
+### Overige data
+
+Voor details van overige bevrijdingstoerdata:
+- **Gouda**: houdt [@gouda4palestine](https://www.instagram.com/gouda4palestine/) op Instagram in de gaten.
+
+## Deelnemende groepen
+
+{{< bevrijdingstoer-logos >}}
+
 ## Download de afbeelding
 
 {{< bevrijdingsposter-afbeelding >}}

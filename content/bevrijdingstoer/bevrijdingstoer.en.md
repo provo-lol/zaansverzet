@@ -32,6 +32,15 @@ At the following locations and times you can pick up free liberation posters and
 
 {{< bevrijdingstoeragenda-en >}}
 
+### Additional dates
+
+For details of other liberation tour actions:
+- **Gouda**: keep an eye on [@gouda4palestine](https://www.instagram.com/gouda4palestine/) on Instagram.
+
+## Participating groups
+
+{{< bevrijdingstoer-logos >}}
+
 ## Download the image
 
 {{< bevrijdingsposter-afbeelding-en >}}
