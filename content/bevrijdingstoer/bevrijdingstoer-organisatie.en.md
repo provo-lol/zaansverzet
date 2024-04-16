@@ -50,11 +50,6 @@ Is your action not yet listed? [Register it here!](#register-your-action)
 
 {{< bevrijdingstoeragenda-en >}}
 
-### Additional dates
-
-For details of other liberation tour actions:
-- **Gouda**: keep an eye on [@gouda4palestine](https://www.instagram.com/gouda4palestine/) on Instagram.
-
 ## Participating groups
 
 {{< bevrijdingstoer-logos >}}

@@ -52,11 +52,6 @@ Staat jouw actie er nog niet bij? [Meld deze dan aan!](#meld-je-actie-aan)
 
 {{< bevrijdingstoeragenda >}}
 
-### Overige data
-
-Voor details van overige bevrijdingstoerdata:
-- **Gouda**: houd [@gouda4palestine](https://www.instagram.com/gouda4palestine/) op Instagram in de gaten.
-
 ## Deelnemende groepen
 
 {{< bevrijdingstoer-logos >}}
