@@ -39,13 +39,6 @@ Op de volgende locaties en tijden kun je gratis bevrijdingsposters en -flyers op
 
 {{< bevrijdingstoeragenda >}}
 
-### Overige data
-
-Voor details van overige bevrijdingstoerdata:
-- **Den Bosch**: houd [@den.bosch4palestine](https://www.instagram.com/den.bosch4palestine/) op Instagram in de gaten.
-- **Gouda**: houd [@gouda4palestine](https://www.instagram.com/gouda4palestine/) op Instagram in de gaten.
-- **Utrecht**: houd [@palestine.cafe.utrecht](https://www.instagram.com/palestine.cafe.utrecht/) op Instagram in de gaten.
-
 ## Deelnemende groepen
 
 {{< bevrijdingstoer-logos >}}
