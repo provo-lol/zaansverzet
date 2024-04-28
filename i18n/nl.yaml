@@ -33,6 +33,7 @@ footer:
 list:
   externalurl_title: "Link naar externe site"
   no_articles: "Er zijn nog geen artikelen om hier weer te geven."
+  no_events: "Er zijn geen activiteiten om hier weer te geven."
 
 nav:
   scroll_to_top_title: "Scroll naar toven"
@@ -54,3 +55,6 @@ sharing:
 
 shortcode:
   recent_articles: "Recent"
+
+agenda: "Ga naar de agenda."
+archive: "Ga naar eerdere activiteiten."

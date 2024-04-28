@@ -33,6 +33,7 @@ footer:
 list:
   externalurl_title: "Link to external site"
   no_articles: "There's no articles to list here yet."
+  no_events: "There are no activities to be displayed here."
 
 nav:
   scroll_to_top_title: "Scroll to top"
@@ -54,3 +55,6 @@ sharing:
 
 shortcode:
   recent_articles: "Recent"
+
+agenda: "Go to the agenda."
+archive: "Go to past activities."
