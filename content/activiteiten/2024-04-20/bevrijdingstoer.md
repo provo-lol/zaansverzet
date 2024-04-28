@@ -13,8 +13,6 @@ layout: event
 type: event
 ---
 
-![](/img/...)
-
 Op deze datum staat Zaankanters voor Palestina op meerdere locaties in Zaandam met de Bevrijdingstoer:
 
 - 11.00-12.00 uur: AH Julianaplein, bij Zaans Medisch Centrum, Zaandam

@@ -11,5 +11,3 @@ tags: ["Palestine"]
 layout: event
 type: event
 ---
-
-![](/img/...)

@@ -12,5 +12,3 @@ showBreadcrumbs: false
 layout: event
 type: event
 ---
-
-![](/img/...)
