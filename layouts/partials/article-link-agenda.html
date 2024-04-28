@@ -52,21 +52,21 @@
           </span>
         </div>
       {{ else }}
-        {{ if .Params.event_start_date }}
-            {{ $eventStartDate := .Params.event_start_date | time }}
-        {{ end }}
+          {{ $eventStartDate := .Params.event_start_date | time }}
         <div>
+        <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
         <a
           class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="{{ .RelPermalink }}"
           > {{ .Title | emojify }}</br>
-          </a>
+          </a></h2>
           <p class="font-normal">
+          {{ time.Format "2 January 2006" $eventStartDate }}</br>
           {{ .Params.event_start_time }}
           {{ if .Params.event_end_time }}
           – {{ .Params.event_end_time }}
           {{ end }}</br>
-          {{ .Params.location }}</br>
+          {{ .Params.location }}
           </p>
       </div>
         
