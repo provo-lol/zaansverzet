@@ -1,5 +1,5 @@
 ---
-title: "Sitin"
+title: "Sit-in"
 date: 2024-04-24
 event_start_date: 2024-05-02
 event_end_date: 
