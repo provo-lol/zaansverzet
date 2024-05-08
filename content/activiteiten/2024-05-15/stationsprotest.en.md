@@ -1,6 +1,6 @@
 ---
 title: "Sit-in: Nakba Day"
-date: 2024-04-28
+date: 2024-05-03
 event_start_date: 2024-05-15
 event_end_date: 
 event_start_time: "6.00 pm"
