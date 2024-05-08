@@ -1,6 +1,6 @@
 ---
 title: "Zitprotest"
-date: 2024-04-24
+date: 2024-05-01
 event_start_date: 2024-05-02
 event_end_date: 
 event_start_time: "19.00 uur"

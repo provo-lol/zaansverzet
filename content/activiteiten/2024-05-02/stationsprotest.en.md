@@ -1,6 +1,6 @@
 ---
 title: "Sit-in"
-date: 2024-04-24
+date: 2024-05-01
 event_start_date: 2024-05-02
 event_end_date: 
 event_start_time: "7.00 pm"

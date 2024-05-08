@@ -1,8 +1,8 @@
 ---
 title: "Liberation tour"
-date: 2024-04-25
+date: 2024-05-02
 event_start_date: 2024-05-04
-event_end_date: 
+event_end_date: 2024-05-04
 event_start_time: "11.00 am"
 event_end_time: "3.00 pm"
 location: "Multiple locations in Zaandam"
