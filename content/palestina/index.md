@@ -32,11 +32,13 @@ Ideeën voor acties zijn welkom. Als je samen iets wilt doen op school, op je we
 
 Ben je lastiggevallen op school, op je werk, of op straat omdat je opkomt voor Palestina? Neem dan ook contact op. Dan kijken we samen of we hier iets aan kunnen doen.
 
-## Bevrijdingstoer 
+<!-- ## Bevrijdingstoer 
 
-In de aanloop naar Bevrijdingsdag is er een bevrijdingstoer met flyer- en posteracties, onder het motto: Niemand is vrij, totdat Palestina vrij is. [Meer informatie over de bevrijdingstoer.](/content/bevrijdingstoer/bevrijdingstoer.md)
+In de aanloop naar Bevrijdingsdag is er een bevrijdingstoer met flyer- en posteracties, onder het motto: Niemand is vrij, totdat Palestina vrij is. [Meer informatie over de bevrijdingstoer.](/content/bevrijdingstoer/bevrijdingstoer.md) -->
 
-## Agenda
+## Activiteiten
+
+Wil je meedoen aan activiteiten ter ondersteuning van Palestina? Of wil je gewoons eens komen kijken? Je vindt alle aankomende activiteiten op de [agenda](/content/agenda/_index.md).
 
 <!-- ### 25 jan: Zitprotest voor een staakt-het-vuren
 Donderdag 25 januari 2024  
@@ -139,7 +141,7 @@ Donderdag 11 april 2024
 17.30-18.30 uur  
 Station Zaandam, Zaandam -->
 
-### 18 april: Protest op station
+<!-- ### 18 april: Protest op station
 
 Staakt-het-vuren, nu!  
 Donderdag 18 april 2024, 17.30-18.30 uur  
@@ -190,4 +192,4 @@ Zaterdag 4 mei, 12.30-13.30 uur
 Winkelcentrum Gibraltar, Zaandam
 
 Zaterdag 4 mei, 14.00-15.00 uur  
-Gedempte gracht, Centrum, Zaandam
+Gedempte gracht, Centrum, Zaandam -->

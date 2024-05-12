@@ -31,11 +31,13 @@ Ideas for actions are welcome. If you want to do something together at your scho
 
 Have you been harassed at school, at your workplace, or on the street because you stand up for Palestine? Please also contact us. Then we will see whether we can do something about this together.
 
-## Liberation tour 
+<!-- ## Liberation tour 
 
-In the run-up to Liberation Day, there'll be a liberation tour with flyer- and poster actions, with the slogan: No one is free, until Palestine is free. [More information about the liberation tour.](/content/bevrijdingstoer/bevrijdingstoer.en.md)
+In the run-up to Liberation Day, there'll be a liberation tour with flyer- and poster actions, with the slogan: No one is free, until Palestine is free. [More information about the liberation tour.](/content/bevrijdingstoer/bevrijdingstoer.en.md) -->
 
-## Agenda
+## Activities
+
+Would you like to take part in activities in support of Palestina? Or just like to check it out sometime? You're always very welcome to joing. For upcoming activities, see the [agenda](/content/agenda/_index.en.md).
 
 <!-- ### 25 Jan: Sit-in for a ceasefire
 Thursday 25 January 2024, 6pm  
@@ -103,7 +105,7 @@ Zaandam station, Zaandam
 Thursday 11 April 2024, 5.30-6.30pm  
 Zaandam station, Zaandam -->
 
-### 18 April: Sit-in for a ceasefire
+<!-- ### 18 April: Sit-in for a ceasefire
 Thursday 18 April 2024, 5:30-6:30 pm  
 Zaandam station, Zaandam
 
@@ -144,4 +146,4 @@ Saturday 4 May, 12:30-1:30 pm
 Shopping area Gibraltar, Zaandam
 
 Saturday 4 May, 2:00-3:00 pm  
-Gedempte gracht, City centre, Zaandam
+Gedempte gracht, City centre, Zaandam -->
