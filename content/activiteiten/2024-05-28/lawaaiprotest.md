@@ -1,8 +1,8 @@
 ---
-title: "🇵🇸🔻📢 Solidariteitslawaaidemo @ Huis van bewaring, Westzaan 📢🔻🇵🇸"
-date: 2024-05-05
-event_start_date: 2024-05-22
-event_end_date: 2024-05-22
+title: "🇵🇸🔻📢 Solidariteitslawaaidemo 📢🔻🇵🇸"
+date: 2024-05-07
+event_start_date: 2024-05-28
+event_end_date: 
 event_start_time: "19.30 uur"
 event_end_time: 
 location: "Justitieel Complex Zaanstad, Westzaan"
@@ -13,10 +13,10 @@ layout: event
 type: event
 ---
 
-**Wanneer:** Woensdag 22 mei  
-**Verzamelen:** Westkant station Zaandam, Houtveldweg, bij de roltrap, neem je fiets, scootmobiel of step mee.  
+**Wanneer:** Dinsdag 28 mei  
+**Verzamelen:** Westkant station Zaandam, Houtveldweg, bij de roltrap, neem je fiets, scootmobiel, skateboard of step mee. (Dit is direct na het [stationsprotest](/activiteiten/2024-05-28/stationsprotest/), je bent van harte welkom om daar ook aan mee te doen om 18:00 uur.)  
 **Tijd:** 19:00 uur. Of ga rechtsteeks naar het huis van bewaring, Smeet 1, 1551 NG Westzaan, start om 19:30 uur.  
-**Wat:** Twee van onze kameraden zitten nog steeds opgesloten in het huis van bewaring in Westzaan. Laten we daar onze solidariteit betuigen en laten we luid zijn! Neem Palestijnse vlaggen mee, potten en pannen, spandoeken, megafoons en maak lawaai! 📢📢📢
+**Wat:** Eén van onze kameraden zit nog steeds opgesloten in het huis van bewaring in Westzaan. Laten we daar onze solidariteit betuigen en laten we luid zijn! Neem Palestijnse vlaggen mee, potten en pannen, spandoeken, megafoons en maak lawaai! 📢📢📢  
 
 Zegt het voort! Solidariteit is ons sterkste wapen! 🇵🇸
 
