@@ -12,6 +12,8 @@ layout: event
 type: event
 ---
 
+![Flyer with information about the Zaan Antifascist Action Picnic on 14 July, at 2.00 pm in the Veldpark](/img/zaanse-actiepicknick_2024-07-14.jpeg)
+
 **With a live gig by [Your Local Pirates](https://yourlocalpirates.noblogs.org/)!**
 
 On Sunday 14 July at 2.00 pm there'll be the first Zaan Antifascist Action Picnic. As good an occasion as any for activists in the Zaan region and beyond to meet up, learn from one another, and just hang out and chat. With coffee, tea, stickers, vegan snacks, rugs, quiet corners, zines, a live gig by [Your Local Pirates](https://yourlocalpirates.noblogs.org/), nice people, plenty to chat about, and potentially even some good weather.

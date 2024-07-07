@@ -13,6 +13,8 @@ layout: event
 type: event
 ---
 
+![Flyer met informatie over de Zaanse Antifascistische Actiepicknick op 14 juli, om 14.00 uur in het Veldpark](/img/zaanse-actiepicknick_2024-07-14.jpeg)
+
 **Met een live optreden van [Your Local Pirates](https://yourlocalpirates.noblogs.org/)!**
 
 Op zondag 14 juli is om 14:00 uur de eerste Zaanse Antifascistische Actiepicknick. Een mooie gelegenheid voor activisten uit de Zaanstreek en daarbuiten om elkaar te ontmoeten, van elkaar te leren, en in het gras te praten. Met koffie, thee, stickers, vega eten, kleedjes, rustige hoekjes, zines, een live optreden van [Your Local Pirates](https://yourlocalpirates.noblogs.org/), leuke mensen, genoeg om over te kletsen, en wie weet zelfs goed weer.
