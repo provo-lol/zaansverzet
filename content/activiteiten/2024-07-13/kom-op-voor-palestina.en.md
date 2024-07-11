@@ -1,5 +1,5 @@
 ---
-title: "Stand up for Palestine"
+title: "CANCELLED: Stand up for Palestine-awareness action"
 date: 2024-07-05
 event_start_date: 2024-07-13
 event_end_date: 
@@ -11,5 +11,7 @@ tags: ["Palestine", "demonstration"]
 layout: event
 type: event
 ---
+
+**This action has been cancelled we might do it another time!**
 
 ![Flyer with details of the action on 13 July, in Dutch, Turkish and Arabic. A large eye is shown in the top right corner and a Palestinian flag at the centre.](/img/kom-op-voor-palestina.jpg)
