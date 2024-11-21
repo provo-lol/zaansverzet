@@ -10,13 +10,13 @@ description: ""
 
 Zaankanters voor Palestina werkt samen aan acties in de Zaanstreek voor Palestina.
 
-Sinds 7 oktober 2023 heeft de Israëlische bezetter in Palestina al meer dan 34.356 mensen op brute wijze vermoord (laatst geüpdate: 26 april 2024). 
+Sinds 7 oktober 2023 heeft de Israëlische bezetter in Palestina al meer dan 44.000 mensen op brute wijze vermoord (laatst geüpdate: 21 november 2024). 
 
-**Dat is equivalent aan het vermoorden van 21,50% van alle inwoners van Zaanstad.**
+**Dat is net zoveel als het vermoorden van 27,50% van alle inwoners van Zaanstad.**
 
 <!-- 159.806 inwoners Zaanstad op 31 januari 2023 -->
 
-De bezetter heeft hele woonwijken kapotgemaakt en landbouwgrond onbruikbaar gemaakt.
+De bezetter heeft hele woonwijken kapotgemaakt en landbouwgrond onbruikbaar gemaakt. En het getal is een dramatische onderschatting. De meeste doden zijn niet geteld. 
 
 Dit kan en mag niet zo doorgaan. Dit kan en mag niet onbestraft blijven. Wij zeggen:
 
@@ -27,6 +27,15 @@ Dit kan en mag niet zo doorgaan. Dit kan en mag niet onbestraft blijven. Wij zeg
 Mensen in de Zaanstreek staan solidair met de mensen van Palestina. 
 
 Ideeën voor acties zijn welkom. Als je samen iets wilt doen op school, op je werk, of in je wijk, neem contact op.
+
+## Sluit je aan!
+
+Sluit je aan en maak kenbaar dat jij ook een Zaankanter voor Palestina bent:
+
+Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
+TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
+Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
+E-mail: ZaankantersVoorPalestina@proton.me
 
 ## Bescherming
 
