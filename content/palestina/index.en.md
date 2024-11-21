@@ -31,10 +31,10 @@ Ideas for actions are welcome. If you want to do something together at your scho
 
 Join today and make clear you're a Zaankanter for Palestine:
 
-Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
-TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
-Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
-E-mail: ZaankantersVoorPalestina@proton.me
+- Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
+- TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
+- Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
+- E-mail: ZaankantersVoorPalestina@proton.me
 
 ## Protection
 
