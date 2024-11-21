@@ -32,10 +32,10 @@ Ideeën voor acties zijn welkom. Als je samen iets wilt doen op school, op je we
 
 Sluit je aan en maak kenbaar dat jij ook een Zaankanter voor Palestina bent:
 
-Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
-TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
-Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
-E-mail: ZaankantersVoorPalestina@proton.me
+- Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
+- TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
+- Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
+- E-mail: ZaankantersVoorPalestina@proton.me
 
 ## Bescherming
 
