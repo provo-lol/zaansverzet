@@ -9,9 +9,9 @@ description: "..."
 
 Zaankanters for Palestine works together on actions for Palestine in the Zaan region.
 
-Since 7 October 2023, the Israeli occupier in Palestine has brutally murdered more than 34,356 people (last updated: 26 April 2024).
+Since 7 October 2023, the Israeli occupier in Palestine has brutally murdered more than 44,000 people (last updated: 21 November 2024).
 
-**That is equivalent to killing 21.50% of all residents of Zaanstad.**
+**That is equivalent to killing 27.50% of all residents of Zaanstad.**
 
 <!-- 159,806 inhabitants of Zaanstad on 31 January 2023 -->
 
@@ -26,6 +26,15 @@ This can't and shouldn't be allowed to continue. This can't and mustn't go unpun
 People in the Zaan region stand in solidarity with the people of Palestine.
 
 Ideas for actions are welcome. If you want to do something together at your school, at work, or in your neighbourhood, please contact us.
+
+## Join today!
+
+Join today and make clear you're a Zaankanter for Palestine:
+
+Instagram [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
+TikTok [@zaan4palestine](https://www.tiktok.com/@zaan4palestine)
+Telegram [t.me/Zaankanters4Palestine](@Zaankanters4Palestine)
+E-mail: ZaankantersVoorPalestina@proton.me
 
 ## Protection
 
