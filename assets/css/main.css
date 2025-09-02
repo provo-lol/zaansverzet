@@ -311,3 +311,10 @@ body:has(#menu-controller:checked) {
   display: inline-block;
   font-size: 16px;
 }
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
