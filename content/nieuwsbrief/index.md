@@ -1,6 +1,6 @@
 ---
 title: "Zaankanters voor Palestina - Nieuwsbrief"
-description: "Schrijf je in"
+description: "Blijf op de hoogte van wat jij kunt doen voor Palestina"
 layout: "nieuwsbrief"
 ---
 <img src="https://zaansverzet.nl/img/zaankanters-voor-palestina.jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto; width: 20%;">
