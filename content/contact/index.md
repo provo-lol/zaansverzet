@@ -16,3 +16,54 @@ Neem contact op:
 - Instagram: [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
 
 Als je contact opneemt, dan sturen we je wat informatie toe zodat je kan ontdekken hoe jij kan bijdragen.
+
+<hr>
+<details>
+        <summary>Publieke PGP-sleutel</summary>
+        <p class="abstract-text" style="font-size:.90em">
+          -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=bQFz
+-----END PGP PUBLIC KEY BLOCK-----
+        </p>
+</details>
+
+
+
