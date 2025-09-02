@@ -20,7 +20,7 @@ Als je contact opneemt, dan sturen we je wat informatie toe zodat je kan ontdekk
 <hr>
 <details>
         <summary>Publieke PGP-sleutel</summary>
-        <p class="abstract-text" style="font-size:.90em">
+        <code style="font-size:.90em">
           -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsDNBGi3JtgBDACwdv3UVJeWqPC0/rNfI9f1MW5r5vjfV1tQBzcHhNGm4iO/NGx4
@@ -62,7 +62,7 @@ Z2GEQGQSJ3zwAMxkoD1nF/0s8UVrI4fc5Ydf8K2skS4EoVv1oZsCPYt7TFDs6Esn
 ebm/MrkrKgdF840rrrWi2e4mG5yY//QQ/XNb96VyPnsljA==
 =bQFz
 -----END PGP PUBLIC KEY BLOCK-----
-        </p>
+        </code>
 </details>
 
 
