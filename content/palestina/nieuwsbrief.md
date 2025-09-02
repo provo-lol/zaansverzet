@@ -1,25 +1,7 @@
 ---
-title: "Zaankanters voor Palestina"
-description: ""
+title: "Nieuwsbrief Zaankanters voor Palestina"
+description: "Schrijf je in"
 
 ---
 
-
-<form method="post" action="http://cecile.uber.space/subscription/form" class="listmonk-form">
-  <div>
-    <h3>Inschrijven</h3>
-    <input type="hidden" name="nonce" />
-
-    <p><input type="email" name="email" required placeholder="E-mail" /></p>
-    <p><input type="text" name="name" placeholder="Name (optional)" /></p>
-
-    <p>
-      <input id="683a3" type="checkbox" name="l" checked value="683a37cd-896e-4457-9930-5a8377d8bd53" />
-      <label for="683a3">Zaankanters voor Palestina</label>
-      <br />
-      <span>De nieuwsbrief voor Zaankanters voor Palestina</span>
-    </p>
-
-    <input type="submit" value="Subscribe " />
-  </div>
-</form>
+Nieuwsbrief
