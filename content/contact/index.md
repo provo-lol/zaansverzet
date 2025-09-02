@@ -11,7 +11,7 @@ Je kunt meedoen op een manier die bij jou past. Samen acties doen, achter de sch
 
 Neem contact op:
 
-- Email: **zaans<!---->verzet<!--  -->@<!---->prot<!---->on<!--  -->.me**
+- Email: **hal<!---->lo<!--  -->@<!---->zaansver<!---->zet<!--  -->.nl**
 - Mastodon: [@zaansverzet@todon.nl](https://todon.nl/@zaansverzet)
 - Instagram: [@zaankanters4palestine](https://www.instagram.com/zaankanters4palestine/)
 
