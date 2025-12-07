@@ -2,6 +2,38 @@
   {{- $images := .Resources.ByType "image" }}
   {{- $cover := $images.GetMatch (.Params.cover | default "*cover*") }}
   {{- $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
+
+<style>
+
+.mainContainer{
+    width: 70%;
+    display: table;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: #6DB3F2;
+    background-image: url('/img/lichtjes-achtergrond.png');
+    background-position: center 20%; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p.beschrijving{
+  font-size: larger;
+  font-weight: 900;
+  font-size: 1.3em;
+}
+
+</style>
+
   <article>
     <header class="max-w-prose">
       {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
@@ -49,6 +81,7 @@
         </div>
       {{ end }}
       <div class="min-w-0 min-h-0 max-w-prose grow">
+        <p class="beschrijving">{{ .Params.description }}</p>
         {{ .Content | emojify }}
       </div>
     </section>
