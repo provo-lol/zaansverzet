@@ -27,6 +27,6 @@
     class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
     rel="me"
     href="{{ "" | relLangURL }}"
-    >{{ .Site.Title | markdownify | emojify }}</a
+    ><p class="sitetitleoverride">{{ .Site.Title | markdownify | emojify }}</p></a
   >
 {{- end }}

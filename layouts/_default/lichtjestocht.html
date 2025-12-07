@@ -30,8 +30,26 @@ p.beschrijving{
   font-size: larger;
   font-weight: 900;
   font-size: 1.3em;
+  color: white;
 }
 
+.prose {
+  color: white;
+}
+
+h1.ltitel{
+  color: white;
+  font-weight: 900;
+  font-size: 2em;
+  line-height: 40px;
+}
+ul{
+  color: grey;
+}
+
+p.sitetitleoverride{
+  color: grey
+}
 </style>
 
   <article>
@@ -40,7 +58,7 @@ p.beschrijving{
         {{ partial "breadcrumbs.html" . }}
       {{ end }}
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        {{ .Title | emojify }}
+        <h1 class="ltitel">{{ .Title | emojify }}</h1>
       </h1>
       <div class="mt-8 mb-12 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         <!-- {{ partial "article-meta.html" (dict "context" . "scope" "single") }} -->
