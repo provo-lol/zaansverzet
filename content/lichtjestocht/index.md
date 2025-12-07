@@ -1,6 +1,6 @@
 ---
-title: "Lichtjesoptocht tegen racisme en fascisme"
-description: "Op de avond van 24 december ben je van harte welkom om mee te doen met de traditionele lichtjesoptocht tegen racisme en fascisme in Zaandam"
+title: "Lichtjestocht tegen racisme en fascisme"
+description: "Op de avond van 24 december ben je van harte welkom om mee te doen met de traditionele lichtjestocht tegen racisme en fascisme in Zaandam"
 layout: "lichtjestocht"
 ---
 
