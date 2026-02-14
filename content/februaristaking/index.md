@@ -7,7 +7,9 @@ layout: februaristaking
 ![Historisch beeld uit 1941 van honderden Zaankanters op de Dam.](/img/februaristaking-2026.jpg)
 
 Wanneer: Donderdag 26 februari 2026
+
 Aanvang: 17.00 uur
+
 Verzamelen: Stadhuisplein, Zaandam. 
 
 In 1941 staakten duizenden Zaanse arbeiders het werk. Het was een moment van verzet. Verzet tegen de fascistische bezetter. Tegen discriminatie, dwangarbeid en deportatie.
