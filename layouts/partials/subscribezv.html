@@ -1,0 +1,47 @@
+
+
+<style>
+.btn-green {
+  background-color: #04AA6D;
+  border-radius: 2px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 13px 30px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.btn-green:hover
+{
+  background-color: #8CDBBE;
+}
+
+.btn-green:active
+{
+  background-color: #51B08D;
+}
+
+  
+</style>
+<div style="padding-top: 200px; text-align: center;">
+<form method="post" action="https://nieuws.zaansverzet.nl/subscription/form" class="listmonk-form">
+  <div>
+    <h3>Op de hoogte blijven?</h3>
+    <h2>Schrijf je in voor de nieuwsbrief</h2>    
+    <input type="hidden" name="nonce" />
+
+    <p><input type="email" name="email" required placeholder="E-mailadres" style="padding: 5px;" /></p>
+    <p><input type="text" name="name" placeholder="Naam (niet verplicht)" style="padding: 5px;" /></p>
+
+    <p>
+      <input id="4a9c9" type="hidden" name="l" checked value="4a9c9664-42b5-42f9-8fc7-a72a401b658a" />
+      <br />
+      <span>Ontvang vanaf nu de nieuwsbrief van Zaans Verzet</span>
+    </p>
+    <button class="btn-green" type="button">
+    <input type="submit" value="Inschrijven" />
+    </button>
+  </div>
+</form>
+</div>
